@@ -1,0 +1,13 @@
+.input-label {
+    display: block;
+    margin: 0.5rem;
+}
+
+.input-field {
+    font-size: 1rem;
+    padding: 0.25rem;
+}
+
+.add-button {
+    margin-left: 0.5rem;
+}

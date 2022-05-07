@@ -1,0 +1,8 @@
+.item {
+    line-height: 2rem;
+    margin: 0.5rem 0;
+}
+
+.delete-button {
+    margin-left: 1rem;
+}
